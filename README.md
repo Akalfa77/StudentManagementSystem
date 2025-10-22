@@ -37,8 +37,6 @@ The project uses **Java** and follows **Object-Oriented Programming** principles
 ### Viewing All Students
 ![View All Students](screenshots/view_students.png)
 
-*Optional:* Add a screenshot for updating marks if you want to highlight that feature.
-
 ## Technologies Used
 - **Programming Language:** Java (J2SE)
 - **Development Approach:** Object-Oriented Programming
